@@ -1,2 +1,0 @@
-flake.lock
-# Ignored to stop nix from pinning nixpkgs to the version I had on my system
